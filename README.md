@@ -10,6 +10,12 @@ it goes through 3 different processes, and it will show 3 outputs in 3 areas
 2. Check whether the SMS contains a link or not
 3. if the link is available, it checks whether the link is Spam or not according to the dataset
 
+# Installing required packages
+=> for app.py 
+pip install Flask Flask-CORS scikit-learn numpy pandas requests
+=> for model training
+
+
 
 # How to run
   run app.py
