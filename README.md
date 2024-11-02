@@ -11,9 +11,12 @@ it goes through 3 different processes, and it will show 3 outputs in 3 areas
 3. if the link is available, it checks whether the link is Spam or not according to the dataset
 
 # Installing required packages
-=> for app.py 
+=> for app.py : 
 pip install Flask Flask-CORS scikit-learn numpy pandas requests
-=> for model training
+
+=> for model training :
+pip install pandas numpy matplotlib scikit-learn
+
 
 
 
